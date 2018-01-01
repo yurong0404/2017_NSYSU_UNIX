@@ -1,0 +1,32 @@
+alias m='mkdir'
+alias makedirs='cd ~/hw1;
+rm -rf hw;
+m hw;
+cd hw;
+m e;
+m e/s;
+m e/n;
+m e/n/w;
+m e/n/d;
+m e/n/d/s;
+m e/n/d/d;
+m e/n/d/d/sw;
+m e/n/d/d/sw/e;
+m e/n/d/d/sw/e/u;
+m e/n/d/d/sw/sw;
+m e/n/d/d/sw/w;
+m e/n/d/d/sw/w/d;
+m e/n/d/d/sw/w/d/e;
+m e/n/d/d/sw/w/d/e/n;
+m e/n/d/d/sw/w/d/e/n/w;
+m e/n/d/d/sw/w/d/e/d;
+m e/n/d/d/sw/w/d/e/d/s;
+m e/n/d/d/sw/w/d/e/d/s/s;
+m e/n/d/d/sw/w/d/e/d/s/s/s;
+m e/n/d/d/sw/w/d/e/d/n;
+m e/n/d/d/sw/w/d/e/d/n/n;
+m e/n/d/d/sw/w/d/e/d/n/n/u;
+m e/n/d/d/sw/w/d/e/d/n/n/u/u;
+m e/n/d/d/sw/w/d/e/d/n/n/u/u/ne;
+m e/n/d/d/sw/w/d/e/d/n/n/u/u/ne/ne;
+cd ~/hw1'
